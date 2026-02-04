@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <itunes:image href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0pxbO2SnUbxTSUiC5R1JPdk2z0ZdtXa3Ctw&s"/>
     <title>זהבי עצבני - פתיח התכנית</title>
@@ -13633,6 +13633,7 @@
     </item>
   </channel>
 </rss>
+
 
 
 
