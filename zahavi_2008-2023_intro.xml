@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <itunes:image href="https://raw.githubusercontent.com/omerac84/Zahavi-rss/refs/heads/main/zahavi.jpeg"/>
+    <itunes:image href="https://raw.githubusercontent.com/omerac84/Zahavi-rss/refs/heads/main/IMG_zahavi.jpeg"/>
     <title>זהבי עצבני - פתיח התכנית</title>
     <link>https://103fm.maariv.co.il/program/זהבי-עצבני-נתן-זהבי.aspx</link>
     <description>103.fm - Zahavi Atzbani archive feed (only Part 01 for each broadcast day), years 2008-2023.</description>
@@ -13633,6 +13633,7 @@
     </item>
   </channel>
 </rss>
+
 
 
 
